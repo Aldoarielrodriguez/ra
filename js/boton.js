@@ -1,13 +1,13 @@
 var elemPP=0;
-var epp= ["arnes", "barbijo", "bota", "casco","chaleco", "gafas", "guantes","latex", "zapatos"];
+var epp= ["arnes", "barbijo","casco","chaleco", "gafas", "guantes","latex", "zapatos"]; /*"bota"*/
 
-var epp1= [ "casco", "gafas","chaleco","zapatos"];
+var epp1= [ "casco", "gafas","chaleco"]; /*"zapatos"*/
 
-var epp2= ["gafas","barbijo", "latex","bota"];
+var epp2= ["gafas","barbijo", "latex"]; /*"bota"*/
 
-var epp3= ["arnes", "barbijo", "bota", "casco","chaleco", "gafas", "guantes","latex", "zapatos"];
+var epp3= ["arnes", "barbijo",  "casco","chaleco", "gafas", "guantes","latex"]; /*"bota", "zapatos"*/
 
-var epp4= ["arnes", "barbijo", "bota", "casco","chaleco", "gafas", "guantes","latex", "zapatos"];
+var epp4= ["arnes", "barbijo", "casco","chaleco", "gafas", "guantes","latex"]; /*"bota","zapatos" */
 
 
 
