@@ -1,2 +1,1 @@
-# ra
-Proyecto de Realidad Aumentada con AFRAME,AR.JS y VOICE RECOGNITION API
+# Proyecto de Realidad Aumentada con AFRAME,AR.JS y VOICE RECOGNITION API
